@@ -1,6 +1,6 @@
 import turtle
 
-def draw_square():
+def draw_shapes():
     window = turtle.Screen()
     window.bgcolor ("red")
 
@@ -30,6 +30,6 @@ def draw_square():
     
     window.exitonclick()
 
-draw_square()
+draw_shapes()
     
     
